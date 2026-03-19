@@ -7,6 +7,7 @@
 This project demonstrates end-to-end data analytics using Microsoft Excel, focusing on transforming raw sales and financial data into actionable insights through dynamic reports and dashboards. It highlights business performance, identifies trends, and supports data-driven decision-making.
 
 📈 Sales Report
+
 🎯 Project Objectives
 
 Develop a Customer Performance Report to analyze revenue contribution and customer trends.
@@ -36,6 +37,7 @@ Identify expansion opportunities in high-potential markets
 Improve customer relationship strategies
 
 💰 Finance Report
+
 🎯 Project Objectives
 
 Create Profit & Loss (P&L) reports by:
